@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "MusicApp",
+    "slug": "MusicApp",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/music_icon.png",
+    "splash": {
+      "image": "./assets/iconm.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.Neeraj.MusicApp",
+      "buildNumber": "1.0.0",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.Neeraj.MusicApp",
+      "versionCode": 1
+    }
+  }
+}
