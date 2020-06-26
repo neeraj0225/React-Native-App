@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3951c988-5746-45d2-b613-015a71f0b6dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../MobileBrowser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoAppReact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../neeraj0225" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1dqm7gMZ2BWDx5em4mdBU4ubn3e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3951c988-5746-45d2-b613-015a71f0b6dc" name="Default Changelist" comment="" />
+      <created>1593160831068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593160831068</updated>
+      <workItem from="1593160834492" duration="1284000" />
+      <workItem from="1593162364622" duration="9962000" />
+      <workItem from="1593175310284" duration="788000" />
+      <workItem from="1593177072149" duration="6518000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="257" width="530" height="598" key="FileChooserDialogImpl" timestamp="1593162361583">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="690" y="257" width="530" height="598" key="FileChooserDialogImpl/0.34.1920.1046@0.34.1920.1046" timestamp="1593162361583" />
+    <state width="1892" height="262" key="GridCell.Tab.0.bottom" timestamp="1593162363140">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1892" height="262" key="GridCell.Tab.0.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1593162363140" />
+    <state width="1892" height="262" key="GridCell.Tab.0.center" timestamp="1593162363139">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1892" height="262" key="GridCell.Tab.0.center/0.34.1920.1046@0.34.1920.1046" timestamp="1593162363139" />
+    <state width="1892" height="262" key="GridCell.Tab.0.left" timestamp="1593162363139">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1892" height="262" key="GridCell.Tab.0.left/0.34.1920.1046@0.34.1920.1046" timestamp="1593162363139" />
+    <state width="1892" height="262" key="GridCell.Tab.0.right" timestamp="1593162363140">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1892" height="262" key="GridCell.Tab.0.right/0.34.1920.1046@0.34.1920.1046" timestamp="1593162363140" />
+  </component>
+</project>
